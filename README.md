@@ -1,4 +1,10 @@
-### Hi there 👋
+Hi,
+
+I’m a data engineer/scientist/analyst with up-to-date skills to help your organization to turn data into relevant and actionable insights, so you can make better decisions.
+
+My experience in science and marketing, combined with up-to-date Data & AI skills ensure I can not only extract the value from complex data but  communicate that value as well.
+
+I'm appreciated for my collaborative attitude, critical thinking ability and sense of humor, making me a valuable addition to a data team.
 
 <!--
 **fredvanengelen/fredvanengelen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
